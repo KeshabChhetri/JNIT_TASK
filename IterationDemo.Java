@@ -1,3 +1,7 @@
+/* The good thing or plus points of Iteration is it has
+ remove() method along with reading feature */
+
+
 import java.util.*;
 
 public class IterationDemo{
