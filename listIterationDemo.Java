@@ -7,7 +7,7 @@ and backward direction. LI also called bidirectional cursor.
 
 
 import java.util.*;
-public class ListIterationDemo{
+public class listIterationDemo{
     public static void main (String args[]){
         LinkedList l = new LinkedList();
         l.add("Vodka");
